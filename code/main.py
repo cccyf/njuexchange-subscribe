@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import threading
-import monitor
+from . import monitor
 
 ori_url = 'http://stuex.nju.edu.cn/a/tztg/'
 front = 'http://stuex.nju.edu.cn'
